@@ -1,0 +1,2001 @@
+Label,Count
+enhancement,7508
+released,5926
+bug,3939
+cla: yes,3439
+locked-due-to-inactivity,2177
+CLA Signed,2151
+Passed Review,1712
+documentation,963
+ready,834
+feature,815
+Passed QA,750
+Squad Front End,726
+Type: Feature,677
+Type: Bug,617
+internal,616
+translations,567
+[zube]: Done,540
+4: Reviews Complete,516
+ready for review,504
+in progress,477
+chore,477
+docs,442
+greenkeeper,413
+No UX QA Required,397
+needs review,385
+release,373
+merged,367
+semver-patch,364
+pr: merge ready,362
+Enhancement,358
+semver-minor,323
+automerge,321
+LGTM,319
+PR: polish 💅,318
+tests,312
+No QA Required,312
+breaking,311
+Bug,287
+dependencies,259
+Pending Review,250
+2: Dev Review,244
+changelog:bug-fixes,237
+help wanted,236
+in review,234
+changelog:enhancements,230
+need review,223
+maintenance,222
+type: bug,215
+PR: internal 🏠,214
+hygiene,210
+WIP,204
+technical debt,201
+refactor,200
+test,198
+Meta: Internal,195
+2.x,193
+v3,183
+Passed UX QA,175
+type: document,172
+review,166
+minor,164
+Cypress,160
+Type: Fix,157
+changelog:exclude,157
+wip,156
+semver-major,155
+squash-and-merge,154
+patch,151
+needs 2nd review,146
+ci,142
+PR,142
+API,142
+breaking change,141
+PR: dependency 📦,135
+Waiting for Review,134
+pr: merge safe,134
+type: docs,130
+bugfix,126
+PR Good To Merge,120
+type: chore,117
+Status: Accepted,117
+Type: Enhancement,114
+DO NOT MERGE,113
+bugfix :wrench:,113
+support,112
+approved,105
+context: full,105
+Pending QA,104
+P2: required,104
+cla-signed,103
+CherryPick/Done,103
+Ready for Review,99
+change/minor,99
+[Status] Needs Review,97
+change/patch,96
+chore :truck:,95
+semver: Patch,95
+discussion,93
+automation,93
+stale,92
+pr - good to merge,87
+type: process,87
+lang:typescript,87
+review/with team,87
+autorelease: published,86
+build,84
+dependency,83
+CLA: Valid,82
+should review,82
+type: enhancement,81
+status: Approved,81
+performance,80
+Documentation,79
+Type: Documentation,79
+area: graphics,76
+work in progress,75
+Demo Site,75
+semver-none,75
+priority/high,74
+Tests/Done,74
+type/enhancement,74
+major,73
+passes code review,73
+cla: valid,73
+PR: bug fix 🐞,72
+enhancement :rocket:,72
+release-blocker,72
+css,71
+Release Notes,70
+question,69
+ready to review,69
+passes functional review,69
+type/bug,69
+pr: lgtm,68
+type: Bug,67
+P1: urgent,66
+new component,66
+type: feature,65
+new feature,65
+accepted,65
+priority/medium,65
+In Progress,64
+needs: review,63
+improvement,62
+released on @beta,62
+core,61
+feature :green_apple:,61
+do not merge,60
+P3: important,60
+needs-review,59
+Tests/Not Needed,58
+Critical,57
+Hacktoberfest,57
+skill: front end,57
+js,56
+breaking changes,56
+PR: breaking change 💥,56
+cat/dx,56
+team-apex,55
+storybook,55
+P4: minor,54
+Reviewed,53
+invalid,52
+QA Review Done,52
+feature request,51
+[Status] Ready to Merge,51
+severity: regression,51
+pkg:naming,51
+released on @alpha,51
+Minor,50
+Internal,50
+config change,50
+blocked,49
+component-request:update,47
+v3.x,46
+a11y,46
+upgrade,46
+backport,45
+type: release,45
+changelog:breaking-changes,45
+changelog:new-features,45
+Review,44
+Type: Maintenance,44
+type: build,44
+release: 2.0,44
+code-review-status:pending,43
+type: Refactor,43
+on hold,42
+PR: feature 🚀,42
+release: minor,41
+internals,40
+needs update,40
+Status: Review Ready,39
+wontfix,38
+cli,37
+review needed,37
+defect,37
+PR state: needs review,37
+wallet,36
+PR: OK,36
+triage,36
+typescript,36
+cherry pick,36
+v2.x,35
+security,35
+SEM: Patch,35
+context: none,35
+3 - To Review,35
+cat/aws-event-api-gateway,35
+cat/dashboard,35
+Type: Security,35
+dependency update,34
+Status: In Progress,34
+pr - needs review,34
+quality,34
+priority:high,34
+release:patch,33
+Open Source Prep,33
+meta,33
+g3: reported,33
+quick,33
+PR: merged,33
+urgency:high,33
+reporters,33
+improves: correctness,33
+cla: no,32
+run-test,32
+type:enhancement,32
+type: Chore,32
+ready for merge,32
+Good to go!,31
+examples,31
+finished,31
+engineering health 🛠,31
+semver: minor,31
+priority/low,31
+p1,30
+TypeScript,30
+Ready For Code Review,30
+plugin:release-notes,30
+Ready To Merge,29
+Area: Documentation,29
+autorelease: closed,29
+plugin:commit-analyzer,29
+cla-not-required,28
+v4,28
+need-documentation,28
+codereview,28
+reviewed,27
+semver: patch,27
+wip  :construction:,27
+story:1,27
+flicking,27
+infiniteGrid,27
+semver: Major,27
+cleanup,26
+Scouting,26
+semver-minor: new stuff,26
+tiny,26
+pr_action: Review,26
+Waiting for Release,25
+Version 8,25
+🎉 Feature,25
+hacktoberfest,24
+pinned,24
+backport:2.x,24
+Merged,24
+demo :roller_coaster:,24
+cross-signing-sprint,24
+deps,23
+duplicate,23
+request,23
+v5,23
+Angular migration,23
+status:in-progress,23
+subject:parsers,23
+Typescript,23
+development env,23
+change/major,23
+Priority: High,22
+QA PASSED,22
+Type: Chores,22
+plugin,22
+release: patch,22
+Prebid 1.0,22
+:fish:,22
+pr: needs revision,22
+refactoring,21
+gulp,21
+Accessibility,21
+breaking-change,21
+needs docs,21
+release-patch,21
+Type: Dependencies,21
+Status: Ready for Review,21
+type: refactor,20
+Status: Complete,20
+Work In Progress,20
+ready to merge,20
+rendering,20
+1.x,20
+browser: IE,20
+semver: major,20
+SEM: Minor,20
+type:bug,20
+rule,20
+type: Enhancement,20
+type: technical-debt,20
+adapter support,20
+#review,20
+g3: sync,19
+status:wip,19
+code-review-status:complete,19
+context: partial,19
+subject:serializers,19
+shipit,19
+risk:low,19
+type/feature,19
+Status: Needs Review,19
+feedback wanted,18
+Breaking Change,18
+ui: CSS,18
+types,18
+🌏 I18n,18
+⚙️ Chore,18
+design :straight_ruler:,18
+Type: enhancement,18
+feature-req,18
+phase:1,18
+state: pull request ready,18
+Need Review,18
+document,18
+RELEASE,18
+Type: Deprecation,18
+Endpoint implementation,17
+rfc,17
+travis,17
+Release Note,17
+design system,17
+infrastructure,17
+:bug: bug,17
+High priority,17
+priority: medium,17
+status: in progress,17
+bug-fix,17
+api,17
+build system,17
+status/in-progress,17
+semver:patch,17
+type: Feature,17
+:dna: enhancement,17
+release: major,17
+S-Accepted,17
+testing,16
+task,16
+version 1.0,16
+Type: Refactoring,16
+Team: Core Application,16
+CH: Fixed,16
+confirmed,16
+routing,16
+status: ready to merge,16
+🐛 Bug,16
+intake api,16
+Instant Render,16
+doc :book:,16
+bug :beetle:,16
+3.x,16
+phase:3,16
+housekeeping,16
+ready-to-merge,16
+Breaking,15
+Review OK,15
+Pending UX QA,15
+priority: high,15
+- Breaking Change,15
+DX,15
+modules API,15
+status: blocked,15
+📃 Docs,15
+elastic-6.2,15
+Import Started,15
+done,15
+priority-blocking,15
+notready,15
+review-it!,15
+required / technical debt,15
+area: physics,15
+24 status: ready,15
+devops,15
+cat/packaging,15
+Feature,14
+needs work,14
+Linting,14
+accessibility,14
+fix,14
+CH: Added,14
+memory,14
+plugins,14
+Meta: Refactor,14
+PR state: merge ready,14
+Installer,14
+Linux,14
+subject:core,14
+PR Needs Review,14
+component: lost-column,14
+area: animation,14
+auth,14
+lgtm,14
+type: Documentation,14
+T-Story,14
+needs: lgtm,14
+doc,13
+Priority: Medium,13
+Type: Breaking Change,13
+Status: Review Needed,13
+RFC,13
+feature-request,13
+semver-patch: fixes etc,13
+P5: nice to have,13
+v1.0.0,13
+status: needs docs,13
+2.31,13
+performances,13
+backport 1.x,13
+🧐 Ready to Review,13
+test :microscope:,13
+priority-high,13
+v1,13
+outdated,13
+ship-it!,13
+component: core,13
+Meta: Do Not Merge,13
+Started-Sprint-128,12
+Breaking change,12
+B/done,12
+a/done,12
+New Designs,12
+docs 📖,12
+CH: Changed,12
+😈 Breaking,12
+Meta: Accepted,12
+website,12
+PR imported,12
+changelog:securities,12
+focus,12
+blocker,12
+movableCoord,12
+Registry's API,12
+authentication,12
+$icons,12
+released on @internal,12
+skill: visual design,12
+src:telegram,12
+[Status] In Progress,11
+Accepted,11
+WORK IN PROGRESS,11
+Area: Workflow,11
+needs rebase,11
+Work in progress,11
+farming,11
+semver-major: breaking change,11
+type: spec alignment,11
+type: demos,11
+small,11
+ready-for-review,11
+in-review,11
+type: test,11
+spec RFC,11
+non issue,11
+Do Not Merge/Awaiting PR,11
+component,11
+needs testing,11
+additional-modules,11
+[Type] Janitorial,11
+component: lost-waffle,11
+cat/lambda,11
+cat/dependency,11
+$root,11
+domain: devel,11
+Meta: Skip Changelog,11
+Status: Code Review,11
+Needs Review,10
+critical,10
+Squad Front End Eng,10
+P-YourDataYourRegions,10
+semver-patch: bugfixes,10
+ui: theme,10
+DEV Issue,10
+Meta: Pending,10
+agent-nodejs,10
+site,10
+Enhancement :sparkles:,10
+AutomatedCherryPick,10
+Do Not Merge,10
+component: code quality,10
+templates,10
+ported-to-otp-ui,10
+needs: Review,10
+changelog:7 internal,10
+skill: content deisgn,10
+priority: 3 (required),10
+status: Declined,10
+hygene,10
+for-review,10
+Unplanned-Sprint-128,9
+high priority,9
+build tool,9
+autogenerated,9
+On Backlog,9
+sip-64,9
+status: accepted,9
+style,9
+gh: PR,9
+P1,9
+type/optimization,9
+Documentation :book:,9
+Flow,9
+awaiting-review,9
+[zube]: Backlog,9
+cla found,9
+pr,9
+caked,9
+admin,9
+Type: bug,9
+BREAKING CHANGE,9
+Feature Request,9
+BREAKING,9
+urgency:low,9
+clay instance,9
+notreviewed,9
+type: Test,9
+new pattern,9
+needs changes,9
+04 type: enhancement,9
+Prebid 3.0,9
+affects: compiling,9
+improves: stability,9
+status: Pending,9
+severity: 3 (broken),9
+RFR,8
+result: fixed,8
+RTR,8
+in-progress,8
+Question,8
+Status: Needs test case,8
+Mirador3,8
+Docs,8
+P - DigitalTwin,8
+build/deploy,8
+docker,8
+v2,8
+logs / errors,8
+status:review-,8
+notable,8
+2.32,8
+ready for discussion,8
+✶ breaking,8
+UI,8
+improve,8
+PR: Review + Merge,8
+architecture,8
+legacy,8
+adpod,8
+$icon-base,8
+needs: feedback,8
+skill: devops,8
+affects: banner,8
+improves: continuity,8
+improves: functionality,8
+semver: Minor,8
+v1.x,7
+CLI,7
+Started-Sprint-127,7
+typescript-rewrite,7
+type: feat,7
+needs tests,7
+Improvement,7
+Bugfix,7
+Purpose: Feature Request,7
+Non client facing changes,7
+Chromatic,7
+regression,7
+must have,7
+library,7
+semver-major: breaking changes,7
+DONT MERGE,7
+docusaurus,7
+type: performance,7
+ui: layout,7
+change,7
+medium,7
+ux,7
+example,7
+vNext,7
+🐛  bug,7
+wai-tools,7
+Bug: Fixed,7
+i18n,7
+PR: docs 📝,7
+feature / refactor,7
+ready to publish,7
+🍗 enhancement,7
+type: Infrastructure,7
+needs: Work,7
+area: ui,7
+22 status: in-progress,7
+video,7
+cat/deployment,7
+cat/plugin,7
+needs-priority,7
+Reviewed and accepted,7
+pr_action: Merge ready,7
+security fix,7
+ready-for-release,7
+new rule,7
+Ready to Merge,6
+release:minor,6
+flow: picked,6
+Ready for review!,6
+New Feature,6
+PR: review accepted,6
+new PR,6
+to review,6
+Missing Release Notes,6
+Feedback wanted,6
+A-Design and/or UX,6
+P-GEOGLAM,6
+T-Bug,6
+waiting for review,6
+P0: critical,6
+type: gestures,6
+ui: flexbox,6
+CSS:  High Density,6
+CH: Security,6
+indexer,6
+component-request:new,6
+💻 Change: Feature,6
+Change: Implementation :computer:,6
+type: breaking,6
+⛴ Ship it!,6
+rules,6
+2.33,6
+Meta: Documentation,6
+HOLDING,6
+core: httpclient,6
+core: context,6
+core: application,6
+fixes,6
+untested,6
+⚙ feature,6
+⛅ improvement,6
+priority:med,6
+assembly-line,6
+story:2,6
+semver:major,6
+component: documentation,6
+patch version bump,6
+semver:minor,6
+CI,6
+house keeping,6
+client-side library,6
+CLA valid,6
+experiment,6
+needs: Feedback,6
+type: deployment,6
+area: xr,6
+custom parser,6
+native,6
+Prebid 4.0,6
+status: Please Review,6
+proposal,6
+review please,6
+inrupt-sprint,6
+release-minor,6
+Waiting For Review,6
+comma,6
+domain: accessibility,6
+C-Low,6
+affects: combo box,6
+seeds,6
+don't merge,5
+Unplanned-Sprint-127,5
+automated-pr,5
+cyclic-master,5
+deferred,5
+backlog,5
+To merge,5
+needs discussion,5
+Community review,5
+angular,5
+Spike,5
+Final Comments,5
+Approved,5
+development,5
+priority: low,5
+no-pr-activity,5
+browser: FireFox,5
+chai v4,5
+improvement ⭐️,5
+optimization,5
+stability / efficiency,5
+reviewed_by:zxqfox@,5
+FE maint,5
+Status: Completed,5
+Bug: Fix :bug:,5
+🚧 WIP,5
+waiting,5
+NPM: Staged,5
+WORKING,5
+priority-2,5
+core: bodyparser,5
+core: cookie,5
+deps: egg-core,5
+type: CI,5
+react compiler,5
+GH Review: review-needed,5
+api: bigtable,5
+to validate,5
+release :rainbow:,5
+debt,5
+review-needed,5
+changelog:optimizations,5
+priority:low,5
+review: complete,5
+status: wip,5
+risk:none,5
+stalled,5
+Windows,5
+Browser,5
+component: build process,5
+epic-Drupal8,5
+build process,5
+status:awaiting response,5
+2 - in progress,5
+status: code review request,5
+cat/template,5
+cat/security,5
+cat/variable,5
+cat/cli,5
+SemVer: Patch,5
+🐣work in progress,5
+on-hold,5
+P-Medium,5
+P-High,5
+hold,5
+priority: minor,5
+affects: breadcrumb,5
+tested,5
+4.0,5
+visualizers,5
+priority: 4 (important),5
+priority: 1 (critical),5
+type: Perf,5
+severity: 4 (inconvenient),5
+type: Build,5
+priority: 2 (urgent),5
+frontend,5
+Enhancement :lollipop:,4
+Started-Sprint-123,4
+Started-Sprint-125,4
+Unplanned-Sprint-126,4
+Planned-Sprint-128,4
+I THINK IT'S GOOD NOW,4
+don't merge yet,4
+Priority: Critical,4
+changelog,4
+In Review,4
+Type: Performance,4
+Legacy: v0.2,4
+addition: feature,4
+dont-merge-just-yet,4
+dx,4
+Requires Design Notes,4
+Performance,4
+Requires QA,4
+P-SatelliteImagery,4
+todo,4
+minor feature,4
+windows,4
+PR: do not merge,4
+status: review needed,4
+2 - Working,4
+hotlist: Angular 1.6 support,4
+needs: rebase,4
+ui: mobile,4
+severity: performance,4
+ux: polish,4
+browser: Chrome,4
+ux: integration,4
+os: iOS,4
+bug 🐞,4
+upstream: babylon,4
+Major,4
+JIRA: Closed,4
+watch-only,4
+READY_FOR_MERGE,4
+status:review+,4
+Change: Feature :computer:,4
+PR: unreviewed,4
+product: CDN,4
+product: Web,4
+🔧 internal,4
+Priority: Low,4
+awaiting review,4
+2.30,4
+NPM: Published,4
+Review Accepted,4
+elastic-7.2,4
+[zube]: In Review,4
+discuss,4
+Publisher,4
+# APPROVED ♥‿♥,4
+Martell,4
+prio: P4 nice-to-have,4
+PR state: open discussion,4
+android,4
+styles,4
+backport 2.x,4
+kokoro:force-run,4
+App-Platform,4
+validated,4
+status/blocked,4
+2.0,4
+Bug: Investigating,4
+do-not-merge,4
+subject:cli,4
+:hammer_and_wrench: enhancement,4
+needs: docs,4
+persist,4
+eg,4
+hosting-azure,4
+do not land,4
+github feature request,4
+doc-only,4
+Merge On Green,4
+needs: Tests,4
+component: lost-row,4
+epic-Quality,4
+needs unit tests,4
+2.0 API Change,4
+3.0 API Change,4
+profile:db,4
+outreach,4
+high-priority,4
+needs code review,4
+layer: Fields,4
+3 - in review,4
+pr/in-review,4
+needs feedback,4
+os/windows,4
+cat/aws-auth,4
+type: documentation,4
+confirmed bug,4
+Blocked,4
+apex,4
+pr: blocked,4
+pr: dependencies,4
+domain: api,4
+C-Medium,4
+skill: ux design,4
+status: blocker,4
+release: 1.2,4
+affects: nav,4
+tests and ci,4
+#-Ready for Review,4
+priority: 5 (nice to have),4
+severity: 2 (regression),4
+pr_action: Discuss,4
+next major version,4
+from Online 4,3
+Unplanned-Sprint-123,3
+Unplanned-Sprint-125,3
+Planned-Sprint-127,3
+Planned-Sprint-130,3
+PLS REVIEW,3
+tooling,3
+controversial,3
+tech debt,3
+Review Requested,3
+P2,3
+frozen,3
+apiNG-plugin,3
+Review Ok,3
+Waiting for release,3
+Wontfix,3
+pr - needs work,3
+Under Review,3
+Completed,3
+suggestion,3
+Status: Resolved,3
+Research,3
+dependency issue,3
+breakingchanges,3
+P-NationalMap,3
+P-AREMI,3
+P-PARLMAP,3
+Low priority,3
+T-New feature,3
+T-Architecture/refactor,3
+Ready for review,3
+major feature,3
+minor bug,3
+Status: Blocked,3
+waiting for author,3
+typo,3
+mejora,3
+work-in-progress,3
+PR: review welcome,3
+severity: critical,3
+i18n: localization,3
+needs: team discussion,3
+p2,3
+⚡ feature,3
+Type: Design,3
+Team: Peacock,3
+hotness,3
+new feature 🎨,3
+CH: Removed,3
+Maintenance,3
+config,3
+advanced,3
+http,3
+rpc,3
+blockstore,3
+mempool,3
+status:ready,3
+ready_to_merge,3
+waiting for merge,3
+Stability: Breaking changes,3
+Stability: No change,3
+developer relations,3
+plugins API,3
+pr:sub,3
+do-not-merge-yet,3
+awaiting feedback,3
+triaged,3
+Version 2 :package:,3
+product: API,3
+status: needs tests,3
+Status: Available,3
+Meta: Denied,3
+SEM: Major,3
+Bug: Confirmed,3
+plugin: egg-security,3
+deps: egg-cookies,3
+Inactive,3
+Patch,3
+Nymeros,3
+PR Pending,3
+target:2.*,3
+paired-pr,3
+PR state: do-not-merge,3
+web,3
+v0-11-release,3
+nightly-failure,3
+Breaking Changes,3
+Needs review,3
+In Code Review,3
+needs: breaking change,3
+question :question:,3
+security/vulnerability,3
+dif/hard,3
+merged-in-v3.0,3
+⚡ optimisation,3
+Testing,3
+PR: Accepted,3
+status:on-hold,3
+dangerzone,3
+3: QA Review,3
+1: PM Review,3
+autocomplete,3
+📖 documentation,3
+🔨 breaking-change,3
+module,3
+visible,3
+obsolete,3
+v3.0.0,3
+v2.*,3
+v3.*,3
+web-interface,3
+Don't merge.,3
+:rocket: feature,3
+release task,3
+component: lost-center,3
+component: lost-masonry-wrap,3
+component: lost-utility,3
+component: lost-masonry-column,3
+component: lost-offset,3
+status: In Progress,3
+epic-Packaging,3
+improvement: enhancement,3
+35 needs: rebase,3
+12 prio: high,3
+status: pending,3
+status: approved,3
+builds,3
+devtools,3
+scope:dependency,3
+lang:css/scss/less,3
+status:needs discussion,3
+area:website,3
+type:infra,3
+hotfix,3
+layer: Selectors,3
+docs/demo,3
+✓ released,3
+deprecation,3
+status/approved,3
+status/verify,3
+review/with reporter,3
+filter,3
+cat/aws-iam,3
+cat/aws-event-http-api,3
+perf,3
+cat/standalone,3
+need more info,3
+team-epitome,3
+#wip,3
+pr: needs documentation,3
+Status: Invalid,3
+now,3
+forking,3
+priority: major,3
+javascript,3
+affects: footer,3
+affects: colors,3
+improves: trust,3
+changes: dependencies,3
+improves: security,3
+affects: card,3
+affects: header,3
+Status: In progress,3
+Dependencies :battery:,2
+icon request,2
+[status] Ready to Merge,2
+[Status] Awaiting Fixes,2
+Planned-Sprint-123,2
+customer-reported,2
+Started-Sprint-130,2
+feature: Core,2
+code review,2
+AREA: repo/workflow,2
+GL,2
+okr,2
+need work,2
+icebox,2
+exploratory,2
+needs more info,2
+Ready For Review,2
+P3,2
+tools,2
+GH Review: Accepted,2
+GH Review: Review Requested,2
+pr - changes requested,2
+needs qa,2
+size/XS,2
+Gulp,2
+Type: Meta/Feedback,2
+Area: Core,2
+ready for test,2
+meta.ready,2
+Needs Testing,2
+Needs Quorum,2
+Purpose: Maintenance,2
+Status: Confirmed,2
+has a dependency,2
+Invalid,2
+More Information Required,2
+Pioneer Friday,2
+not for merging,2
+content,2
+design,2
+proposed change,2
+user experience,2
+adapter: Mattermost,2
+C-Analytics,2
+Z-Small,2
+feat,2
+typescript@next,2
+Type: Tests,2
+future,2
+semver-patch: bugfix,2
+semver-patch: fixes/refactors/etc,2
+backwards-incompatible,2
+Release,2
+priority: critical,2
+3 - Done,2
+g3: pr,2
+browser: MS Edge,2
+ui: focus,2
+type: conflict,2
+hotlist: animations,2
+resolution: won't fix,2
+browser: Safari,2
+os: Android,2
+ui: responsive,2
+for: internal contributor,2
+p0,2
+Type: Research,2
+scope:reporters,2
+Medium Priority,2
+High Priority,2
+known issue,2
+flow/in-review,2
+compatibility,2
+spv,2
+net,2
+package: resolver/node,2
+browser,2
+PR: TODO,2
+toolkit,2
+Needs Code Review,2
+task/enhancement,2
+feedback welcome,2
+doca scaffold,2
+Awaiting Contributor Response,2
+Version 3 :package:,2
+size/L,2
+Will Be Merged,2
+node-gyp,2
+type: discussion,2
+maybe,2
+2.29,2
+tests-e2e,2
+beta4,2
+rc,2
+dict,2
+needs triage,2
+open-source-contribution,2
+core: messenger,2
+plugin: egg-schedule,2
+CLI extension,2
+HTTP API extension,2
+elastic-7.3,2
+backport:1.x,2
+- Hackday,2
+0.6.x,2
++feature,2
+Version: Major,2
+Version: Patch,2
+CLA: Error,2
+prio: P2 very important,2
+PR state: WIP,2
+type: tests,2
+prio: P3 important,2
+eval: needs discussion,2
+extra urgent,2
+big picture,2
+optimized functions,2
+api change,2
+proof of concept,2
+needs investigation,2
+[type] improvement,2
+CodeQuality,2
+awaiting-cake,2
+AST,2
+kokoro:run,2
+api: dialogflow,2
+low priority,2
+visualization,2
+Doing,2
+Status: Abandonded,2
+In-PR,2
+Ready To Test,2
+Added to sprint,2
+v10 (hooks),2
+Issue: documentation,2
+Semver Patch,2
+scripts,2
+kind/bug,2
+SemVer:Minor,2
+v0,2
+Type: Improvement,2
+needs regression testing,2
+version-major,2
+version-patch,2
+under test,2
+need-test,2
+cla: error,2
+pr¹ 🔧 chore,2
+:beetle: bug,2
+progress,2
+api-change,2
+story:18,2
+spec,2
+phase:2,2
+new service,2
+Awaiting Submitter Action,2
+Lifecycle/frozen,2
+research,2
+hold merge,2
+in dev,2
+review: awaiting response,2
+review: needed,2
+type: perf,2
+component: schema,2
+priority: enhancement,2
+PR Needs Work,2
+PR Wait To Merge,2
+rotate,2
+animate,2
+type: security,2
+library-update,2
+module weirdness,2
+needs cleanup,2
+Native,2
+otp-rr-only,2
+[Type] Enhancement,2
+[Status] Review Complete,2
+2 - Developing,2
+:wrench: troubleshooting,2
+on-deck,2
+component: tooling,2
+component: lost-move,2
+component: testing,2
+component: lost-align,2
+type: Docs,2
+vMINOR,2
+vMAJOR,2
+epic-Tests,2
+priority: blocker,2
+type: technical debt,2
+problem: bug,2
+v6,2
+area: sound,2
+31 needs: help,2
+36 needs: cla,2
+13 prio: normal,2
+03 type: feature (plip),2
+pr: review,2
+needs-updates,2
+dormant,2
+⚠︎ Pinned,2
+Ready to merge,2
+ecosystem,2
+cla:missing,2
+not ready to merge,2
+Next,2
+ptr-staging,2
+feedback/help wanted,2
+Feature/Improvement,2
+Status: awaiting internal review,2
+rule: new,2
+rule: modification,2
+difficulty: easy,2
+cat/local-dev,2
+cat/aws-event-sqs,2
+good first issue,2
+could-change-api,2
+pr⁴ 🔧 fix,2
+github_actions,2
+command,2
+optimisation,2
+SemVer: Minor,2
+SemVer: Major,2
+API change,2
+beta,2
+lib,2
+Type: Configuration,2
+has dependencies,2
+kredits-1,2
+changelog:5 bug fix,2
+changelog:6 documentation,2
+demo app,2
+Decision-Needed,2
+type: maintenance,2
+enhancement ☑,2
+customer,2
+type: infrastructure,2
+domain: dom/css,2
+patch/bug,2
+C: Slider,2
+Status: Won't Fix,2
+extra-large,2
+status-green,2
+sass,2
+improves: usability,2
+needs: more info,2
+affects: forms,2
+affects: table,2
+changes: appearance,2
+affects: button,2
+topic: dependencies,2
+affects: search,2
+affects: settings,2
+affects: tokens,2
+affects: media-block,2
+affects: skipnav,2
+needs: confirmation,2
+topic: IE11,2
+1.0,2
+decorators,2
+addons,2
+layouts,2
+status: Blocked,2
+status: Needs triage,2
+severity: 5 (confusing),2
+architecture/design,2
+Pending,2
+Wix,2
+Status: Ready to Merge,2
+src:polling,2
+non breaking,2
+cat-feature,2
+Not ready for review,2
+legacy-support,2
+test coverage,2
+dependency updates,1
+Packaging :package:,1
+Upgrades :outbox_tray:,1
+Documentation :open_book:,1
+Quality :microscope:,1
+3 - Review,1
+🐞 bug,1
+[Status] Needs Feedback,1
+[Status] Needs Author Reply,1
+[Status] Needs Author Replay,1
+Planned-Sprint-122,1
+Started-Sprint-122,1
+Planned-Sprint-125,1
+Planned-Sprint-126,1
+Started-Sprint-126,1
+Started-Sprint-129,1
+Unplanned-Sprint-129,1
+Unplanned-Sprint-130,1
+Started-Sprint-131,1
+Unplanned-Sprint-131,1
+rule change,1
+¡Mui Importante!,1
+bug: broken feature,1
+looks good,1
+DO NOT MERGE YET,1
+pr: :rocket: New feature,1
+release:major,1
+✨ enhancement,1
+Victory,1
+transactions,1
+resolution: invalid,1
+waiting review,1
+api break,1
+failing build,1
+V2.5.0,1
+flow: assigned,1
+easy-pick,1
+Needs reviews,1
+Waiting for review,1
+rest-interface,1
+QA-OK,1
+state: done,1
+epic: runtime,1
+epic: developer tools,1
+needs-upgrade-info,1
+version: 2.x,1
+Not Merged,1
+Needs Developer Review,1
+QA NEEDED,1
+QA FULL REGRESSION,1
+Type: Refactor,1
+Unit Testing,1
+Templates,1
+Type: Gotcha,1
+Area: ospec,1
+level: high-priority,1
+released on @github-actions,1
+e2e test needed,1
+P0,1
+state,1
+meta.in-progress,1
+Status: Revision Needed,1
+drupal-plugin,1
+wordpress-plugin,1
+docker-image,1
+Plugins 🔌,1
+ContentSearch 🔎,1
+annotations,1
+Purpose: Bug,1
+Status: On Hold,1
+discussing changes,1
+B/progress,1
+buggy test,1
+i18n/l10n,1
+update (dependencies / deprecated),1
+Requires Designs,1
+Proposal,1
+Failed QA,1
+released on @12.4.x,1
+Failed Review,1
+Squad X3,1
+Best Practices,1
+Best Practices - CSS,1
+Resolve merge conflicts,1
+Maybe,1
+draft,1
+navigation,1
+ready-for-merge,1
+adapter: Cisco Spark,1
+adapter: HipChat,1
+reliability,1
+Bounty,1
+sip-63,1
+Plugin,1
+P-PacificMap,1
+C-Catalogue,1
+C-Legends,1
+Needs Discussion,1
+T-Enhancement,1
+Medium priority,1
+react-redux-polyglot,1
+im-metadata,1
+im-resize,1
+Severity4: Inconvenient,1
+Scope: Framework,1
+Scope: Functions,1
+action needed,1
+Twitch,1
+spoonfed,1
+rejected,1
+endpoint,1
+need changes,1
+somenewlabel,1
+needs response from author,1
+needs revision,1
+Don't merge,1
+engineering health,1
+3 - done,1
+Doc: website,1
+Status: ready,1
+Design: API,1
+requires major,1
+❤ Bug,1
+Type: Question,1
+Status: DO NOT MERGE,1
+bug :radioactive:,1
+status: waiting for feedback,1
+status: left out,1
+migration,1
+Question: decision-making,1
+rev,1
+InProgress,1
+version 0.x,1
+severity: memory leak,1
+hotlist: ngUpgrade,1
+pr: presubmit-failures,1
+os: macOS,1
+needs: unit tests,1
+severity: inconvenient,1
+type: custom css docs,1
+needs: manual testing,1
+- Easy fix,1
+type: ergo,1
+p3,1
+Preact,1
+⚡ breaking change,1
+low hanging fruit,1
+pr:rfc,1
+pr:breaking,1
+needs info,1
+Jira Synced,1
+performance 🚀,1
+deployment,1
+CH: Breaking Change,1
+large,1
+scope:documentation,1
+scope:assertions,1
+good for beginner,1
+priority,1
+status:work in progress,1
+type:future proposal,1
+Type: Testing,1
+Low Priority,1
+upstream: babel,1
+feedback,1
+revisit,1
+template request,1
+JIRA: PR Review,1
+workinprogress,1
+waiting for dependency,1
+waiting for rebase,1
+chain,1
+released on @2.x,1
+reviewed_by:remnev@,1
+pkg:bemjson-to-jsx,1
+pkg:import-notation,1
+c:in progress,1
+package: resolver/webpack,1
+npm,1
+question / docs,1
+qa,1
+On Hold,1
+PR: WIP,1
+modeling,1
+interaction,1
+spring cleaning,1
+4.0.0,1
+needs re-review,1
+in case you're bored,1
+status/ready for review,1
+status/reviewed,1
+unplanned,1
+Effort: High,1
+community task,1
+reaped,1
+needs a hero,1
+6.1,1
+needs author update,1
+UHR,1
+JIRA,1
+public release,1
+APPROVED,1
+pick-to-2.x,1
+Type: Onboarding Task,1
+type/documentation,1
+status/code review,1
+Do not merge yet,1
+Review Bitte!,1
+needs more information,1
+🐛 Bug: Verified,1
+:one: Priority: High,1
+😎 Historically Cool,1
+Breaking Change :bomb:,1
+pr-opened,1
+question / help / docs,1
+bitcoin-core/secp256k1,1
+🚀 enhancement,1
+👴 v1,1
+🌟 Improvement,1
+semver major,1
+Status: Abandoned,1
+propose,1
+2.34,1
+priority:medium,1
+bump version,1
+wontfix/invalid,1
+vuejs,1
+beta3,1
+beta5,1
+version,1
+maintenance/v4,1
+priority-1,1
+priority-3,1
+merge-conflicts,1
+changes request,1
+Peer approved,1
+requests review,1
+deps: egg-logger,1
+type: example,1
+core: router,1
+core: response,1
+benchmark,1
+deps: egg-cluster,1
+Upgrade Deps,1
+cluster-client,1
+tools: egg-mock,1
+plugin: egg-session,1
+type: improve,1
+type: proposals,1
+plugin: egg-validate,1
+plugin: egg-userrole,1
+plugin: egg-userservice,1
+State extension,1
+elastic-6.1,1
+elastic-7.5,1
+elastic-6.3,1
+context propagation,1
+Packager,1
+Maker,1
+Initialization,1
+- HackDay,1
+current,1
+Cleanup,1
+Needs Bug Verification,1
+proj:contrib,1
+changes-need-review,1
+Version: Minor,1
+evaluating,1
+PR state: blocked,1
+effort: E2 days,1
+effort: E3 weeks,1
+eval: needs context,1
+PR state: needs changes,1
+type: discussion / question,1
+priority ultra,1
+fh:direct-merge-enabled,1
+Semver: minor,1
+2.11,1
+semver-major-bump,1
+frontEnd,1
+Feedback is Welcome,1
+investigating,1
+bug fix,1
+ship it!,1
+In QA,1
+app-builder,1
+[area] core,1
+Type: Docs,1
+alpha,1
+to deploy,1
+completed,1
+review complete,1
+high-pri,1
+PARSER,1
+infeasible,1
+will not implement,1
+:rotating_light:,1
+api: cloudbuild,1
+type: cleanup,1
+autorelease: tagged,1
+autorelease: failed,1
+gitattribute.*,1
+in,1
+triage me,1
+code-quality,1
+commercial,1
+noop,1
+lean-future,1
+WIP/DO NOT MERGE,1
+sem-major,1
+Status: Doin' This Shit,1
+Type: Cool Shit,1
+Status: In Review,1
+Type: Investigate,1
+Type: New Plugin(s),1
+feature proposal,1
+Requires Further Attention,1
+Suggestion,1
+cla-error,1
+requires-tests,1
+Type: Chore,1
+implementation,1
+pr hold,1
+r-no-release-notes,1
+Workflow: pending,1
+suggestion for enhancement,1
+need test,1
+Compiler,1
+Runtime,1
+Semver Major,1
+Semver Minor,1
+changes suggested,1
+cross-platforms scripts,1
+new validation rule,1
+cross-platforms compatibility,1
+chore - npm,1
+node,1
+Lane: fast,1
+Compact Mode,1
+needs reply,1
+status/ready,1
+dif/easy,1
+waiting-on-feedback,1
+Status: Proposal,1
+blueprints,1
+JDL,1
+browser-support,1
+⚠ bug,1
+☕ discussion,1
+added to changelog,1
+hard,1
+Category: Standard,1
+v2.0.0,1
+ready to ship,1
+Feature: Autoplay,1
+Feature: Docs,1
+Feature: Lazyload,1
+priority/critical,1
+docs & demos,1
+move-to-monorepo,1
+experimental,1
+non-breaking,1
+wont-fix,1
+high prio,1
+P0 - Critical,1
+P1 - High,1
+difficulty:hard,1
+milestone 2,1
+need reviews,1
+parse,1
+semver-patch: bugfix/patch/etc,1
+review me!,1
+v² ⋅ beta,1
+released on @staging,1
+v0.2.3,1
+compute,1
+format design,1
+aesthetic,1
+after-migration,1
+needs-testing,1
+matrix.org-support,1
+Community PR,1
+phase:5,1
+story:3,1
+story:5,1
+needs-design,1
+CherryPick/Candidate,1
+Do Not Merge/Awaiting Next Release,1
+semver:fix,1
+topic:ShadowDOM,1
+topic:SVG,1
+keyboard,1
+Type: Technical Debt,1
+awaiting followup,1
+feature-extractor,1
+correction,1
+to do,1
+needs submitter attention,1
+critical bug,1
+translation,1
+update,1
+alert,1
+app-bar,1
+card,1
+chip,1
+dialog,1
+avatar,1
+form,1
+form-control,1
+released on @next-major,1
+📌 pinned,1
+👓 needs investigation,1
+🙏 help wanted,1
+observable-props-or-not,1
+Module: Transporter,1
+Breaking changes,1
+Module: Core,1
+~in progress,1
+env: windows,1
+type: regression,1
+priority: blocks release,1
+priority: p3,1
+type: question,1
+component: cli,1
+priority: p4,1
+waffle:active,1
+needs-info,1
+donations,1
+enh,1
+milestone 4,1
+P4 - Very Low,1
+difficulty:easy,1
+cat: documentation,1
+release/1.4.0,1
+scrollEnd,1
+cssPrefix,1
+jquery,1
+agent,1
+class,1
+hack,1
+status: need-info,1
+Ready,1
+v7,1
+NHN,1
+Category: Documentation,1
+closed-due-inactivity,1
+xdrip-js,1
+needs review core committer,1
+URGENT,1
+easy-fix,1
+upstream bug,1
+clay:site,1
+clay:component,1
+Published,1
+PR: Breaking Change,1
+BLOCKED,1
+oca-verified,1
+Difficulty: Easy,1
+[Type] Bug,1
+api-break,1
+new-component,1
+Hapi 18 Upgrade,1
+client,1
+Work in Progress,1
+0 - Backlog,1
+processed,1
+wof-related,1
+build task,1
+resolution: Not Applicable,1
+component: lost-flex-container,1
+stats: regression,1
+component: lg-logic,1
+stats: escape,1
+vPATCH,1
+epic-FrontEnd,1
+epic-MultipleEnvs,1
+inactive: on hold,1
+discuss: architecture,1
+todo: chore,1
+correção,1
+melhoria,1
+npm-ready-for-publish,1
+npm-version-patch,1
+area: input,1
+01 type: bug,1
+34 needs: tests,1
+32 needs: review,1
+37 needs: release,1
+42 lvl: moderate,1
+25 status: deferred,1
+41 lvl: easy,1
+23 status: testing,1
+PR: review needed,1
+scope: api,1
+scope: core,1
+ci: failed,1
+app parity,1
+show stopper,1
+cloud api,1
+tracked,1
+runtime,1
+The Wreckoning,1
+important,1
+in X,1
+not receiving bids,1
+4.0 API Change,1
+troubleshooting,1
+type:docs,1
+lang:javascript,1
+area:playground,1
+type:meta,1
+area:destructuring,1
+area:cli,1
+lang:jsx,1
+type:perf,1
+:zap: breaking change,1
+add tests,1
+profile:oebb,1
+profile:vbb,1
+profile:bvg,1
+cla needed,1
+waiting change,1
+feedback needed,1
+Contribution Needed,1
+Feedback Needed,1
+idea,1
+combining libraries,1
+react,1
+browser api,1
+styling,1
+tag: enhacement,1
+tag: bugfix,1
+layer: Session,1
+layer: Tests,1
+layer: Schema,1
+layer: Database,1
+layer: Reducers,1
+layer: Model,1
+Team: Site,1
+missing implementation,1
+⎇ master,1
+t³ ✨ enhancement,1
+b³ 🌳 tree-shaking,1
+t⁷ ⋅ waiting on upstream,1
+v² ⋅ minor,1
+t¹ 🐞 bug,1
+Development mode,1
+cla:signed,1
+merge conflict,1
+status/in progress,1
+Firestore support,1
+dino:snooze,1
+Status: won’t do,1
+output,1
+new plugin,1
+input,1
+type: sendgrid enhancement,1
+cat/aws-event-websocket,1
+cat/config-schema,1
+cat/analytics,1
+please review,1
+good-first-contribution,1
+update dependencies,1
+✭ help wanted ✭,1
+sourcemaps,1
+plus,1
+major version,1
+Priority: 2 - Medium,1
+Priority: 1 - Low,1
+code,1
+redis-cache,1
+Release: Current,1
+:exclamation: DO NOT MERGE :exclamation:,1
+type-enhancement,1
+kredits-3,1
+sl-tab-panel,1
+sl-menu,1
+sl-date-range-picker,1
+sl-calendar,1
+Epic,1
+Status: Review,1
+planned-feature,1
+quote_removal,1
+cloud sync,1
+http helpers,1
+Build,1
+Discuss,1
+Test,1
+2,1
+docs ☕,1
+testing ⛳,1
+#tob,1
+#plan,1
+Needs Doc,1
+#tbr,1
+#fib-2,1
+Semver: major,1
+cat: dependencies,1
+type: housekeeping,1
+version: 3.x,1
+needs: discussion,1
+severity2: broken,1
+severity3: regression,1
+severity4: security,1
+domain: logic,1
+domain: toasts,1
+domain: typescript,1
+C-High,1
+P-Critical,1
+⛵️ status/released,1
+🐛 type/bug,1
+👶 semver/patch,1
+🗄 area/interface,1
+minor/feature,1
+enhancement :crown:,1
+typings,1
+Switch,1
+ios,1
+Status: Duplicate,1
+Melhoria,1
+fc-rewrite,1
+typescript-migration,1
+review me,1
+dont merge,1
+filecoin,1
+investigate,1
+polymer-3,1
+polymer-2,1
+good-first-issue,1
+adapter.js,1
+Octane,1
+topic: security,1
+status: hold,1
+version: 1.x,1
+affects: graphic-list,1
+affects: hero,1
+affects: mixins,1
+affects: functions,1
+topic: error messaging,1
+size: hours,1
+affects: checklist,1
+topic: guidance,1
+improves: performance,1
+needs: testing,1
+phase: active,1
+affects: accordion,1
+affects: utilities,1
+changes: markup,1
+affects: alert,1
+improves: language support,1
+needs: additional change to website,1
+needs: more information,1
+platf:web,1
+difficulty: medium,1
+later,1
+contribution welcome,1
+ready for qa,1
+flag: Needs Docs,1
+flag: Needs Tests,1
+branch: Next,1
+pr_action: Rework,1
+type: Style,1
+kind ✨ enhancement,1
+kind✨ feature,1
+p³ 🔥 nice to have,1
+x³ ⋅ hold,1
+v³ ⋅ major,1
+kind ⋅ regression,1
+p¹ 🔥🔥🔥 critical,1
+severity: 1 (security),1
+delayed,1
+server,1
+Review Complete,1
+new release,1
+Do Not Delete,1
+auto pr,1
+Windows support,1
+non-issue,1
+src:webhook,1
+close-on-next-release,1
+pkg,1
+pull request,1
+flow,1
+cat-bug,1
+cat-chore,1
+needs-discussion,1
+next-major,1
+roadmap,1
+PR: Review OK,1
+MAJOR,1
+packaging,1
+4.x/5.x,1

@@ -1,0 +1,6 @@
+# more than 100MB
+bot_PR_dataset.csv
+external_PR_dataset.csv
+filtered_dataset_with_label.csv
+internal_PR_dataset.csv
+.DS_Store

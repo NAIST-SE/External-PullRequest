@@ -1,0 +1,280 @@
+Label,Count
+greenkeeper,142856
+dependencies,88876
+released,7040
+security,3248
+Dependencies,2388
+depfu,1465
+Type: Dependencies,1045
+UPDATE-NON-MAJOR-DEV,929
+Merge On Green,893
+renovate,832
+cla: yes,731
+scope:dependency,684
+deps,605
+tooling,566
+javascript,543
+wontfix,448
+dependency,412
+npm,297
+locked-due-to-inactivity,260
+topic/dependencies,239
+greenkeeper :arrow_up_small:,224
+type: Chore,209
+:robot: dependencies,200
+UPDATE-MAJOR-DEV,177
+maintenance-bot,174
+upgrade,167
+chore,141
+devDependencies,138
+dependencies :package:,132
+Renovate,131
+CLA Signed,112
+Type: Dependency,110
+kategori 4,108
+duplicate,97
+in review,90
+type: chore,86
+type: process,79
+pr: dependencies,77
+release/patch,76
+enhancement,71
+stale,71
+autorelease: published,67
+automerge,66
+Kategori 4,63
+github_actions,61
+kategori 3,59
+ready to merge,52
+size/XS,50
+in progress,49
+internal,49
+Type: Maintenance,45
+documentation,40
+invalid,39
+:vertical_traffic_light: automerge,39
+Kategori 3,36
+PR: merged,35
+ruby,33
+help wanted,33
+state: pull request ready,31
+release/chore,31
+maintenance,29
+breaking,28
+released on @github-actions,27
+GH Review: review-needed,26
+dependency related,25
+semver-patch,24
+outdated,24
+released on @alpha,24
+CH: Security,23
+task,23
+Type: Security,21
+automated pr,21
+autorelease: closed,20
+cla: valid,20
+:ok_hand: code/approved,18
+:vertical_traffic_light: skip-ci,18
+PR: unreviewed,18
+dep:patch,17
+ready,17
+cla: no,16
+refactor,16
+backlog-dependencies,16
+test,16
+WIP,15
+kategori 2,15
+patch,14
+python,14
+dep:minor,13
+lint,13
+no-pr-activity,12
+GreenKeeper,12
+Merged,12
+merge,12
+admin,12
+tiny,11
+Security,11
+released on @beta,10
+tools,10
+blocked,10
+has-external-dependency,10
+type: bug,10
+99 tag: dependencies,10
+Kategori 2,10
+needs changes,9
+Chore,9
+status: code review request,9
+minor,8
+Scop: Dependencies,8
+external-dependency,8
+needs triage,8
+open-source-contribution,8
+v3.x,7
+PR: reviewed-approved,7
+Type: dependency,7
+next major version,7
+dependabot,7
+inactive,7
+cat/security,7
+release:patch,6
+pkg:naming,6
+:ok_hand: code/needs-review,6
+guardrails,6
+security fix,6
+dependency update,6
+semver-major,6
+bug in dependency,6
+on hold,6
+Release: Current,6
+Status: In Progress,6
+Status: Needs Review,6
+pr: needs revision,6
+⛵️ status/released,6
+📦 area/deps,6
+Meta: Do Not Merge,6
+ci,5
+pr - good to merge,5
+No UX QA Required,5
+new,5
+bug,5
+PR: dependency 📦,5
+cat: documentation,5
+cat: dependencies,5
+Accepted,4
+dep:major,4
+has a dependency,4
+Passed QA,4
+Passed Review,4
+Squad Front End,4
+Status: Review Ready,4
+update dependencies,4
+merge conflict,4
+ready for review,4
+PR,4
+:christmas_tree: dependencies,4
+review,4
+v3,4
+resolution: invalid,3
+Severity3: Minor,3
+Type: Chores,3
+released on @next,3
+stale-pr,3
+semver-minor,3
+Type: Onboarding Task,3
+status: blocked,3
+2: Dev Review,3
+rebase,3
+needs review,3
+pr: blocked,3
+type: infrastructure,3
+autorelease: tagged,3
+autorelease: pending,3
+next-major,3
+dependency updates,2
+Dependencies :battery:,2
+Blocked,2
+Review Requested,2
+travis,2
+Pending Review,2
+deferred,2
+dependency issue,2
+priority: low,2
+type: discussion,2
+awaiting review,2
+[zube]: Done,2
+good first issue,2
+docs,2
+kokoro:run,2
+✨ Merged,2
+cla-needed,2
+vulnerabilities,2
+question,2
+pr:reviewed,2
+fixed,2
+libp2p-ms1,2
+4: Reviews Complete,2
+not priority,2
+parked,2
+needs: more triage,2
+PR Needs Review,2
+upstream bug,2
+on-deck,2
+breaking change,2
+Stale,2
+Status: awaiting internal review,2
+dependency bug,2
+#plan,2
+Status: Invalid,2
+cla signed,2
+Won't Fix :man_shrugging:,1
+RFR,1
+procbots/versionbot/ready-to-merge,1
+type:dependencies,1
+3 - Review,1
+to review,1
+No QA Required,1
+Squad Front End Eng,1
+Type: Dependencies Update,1
+development,1
+DONT MERGE,1
+status: left out,1
+status: waiting for feedback,1
+status: on hold,1
+type: build,1
+P3: important,1
+released on @2.x,1
+dependency-bug,1
+needs more information,1
+breaking-change,1
+infrastructure,1
+type: enhancement,1
+type: breaking,1
+status: needs tests,1
+status: in progress,1
+Meta: Denied,1
+ready-for-review,1
+upstream-regression,1
+Upstream,1
+PR state: blocked,1
+discussion,1
+api: cloudprofiler,1
+do not merge,1
+api: bigtable,1
+DO NOT MERGE,1
+Hacktoberfest,1
+difficulty:easy,1
+goodfirstpr,1
+awaiting feedback,1
+type: invalid,1
+should review,1
+build,1
+hacktoberfest,1
+:man_shrugging: wontfix,1
+Lifecycle/1:stale,1
+hold merge,1
+merge when passing,1
+to do,1
+state: do not merge,1
+state: in progress,1
+type: security,1
+ready-to-start,1
+needs tests,1
+CLA valid,1
+outreach,1
+feature request,1
+v4,1
+hotfix,1
+status: Help wanted,1
+status: Please Review,1
+feature,1
+Priority: Normal,1
+ready for merge,1
+maintenance :construction:,1
+Type: Feature,1
+Type: Bug,1
+Status: Won't Fix,1
+Meta: Internal,1
+need review,1
+BREAKING,1
+0 - Backlog,1
