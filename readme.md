@@ -5,7 +5,8 @@ We provide 3 script files
 1. `preliminary_A1_2.ipynb` for the preliminary A1 and A2
 2. `preliminary_A3.ipynb` for the preliminary A3
 3. `rq1.ipynb` for RQ1
-Note that RQ2, we used seperated spreed among three authors and count the result.
+
+*Note that RQ2, we used seperated spreed among three authors and count the result.
 
 # Dataset
 The appendix contains our quantitative and qualitative datasets, shown in Figure 1 in the paper.
